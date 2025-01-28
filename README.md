@@ -19,4 +19,6 @@ This project implements a **voice authentication system** to securely unlock a f
 
 ---
 
-## 
+## Author
+This project is created by **Sujit Sathe**  
+Email: [sujitsathe11@gmail.com](mailto:sujitsathe11@gmail.com)
